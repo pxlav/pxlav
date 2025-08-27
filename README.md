@@ -1,4 +1,4 @@
-<p align = "center"><img src = "[https://media3.giphy.com/media/kSlj8H6LbhuWQ/giphy.gif?cid=ecf05e47fxs4qk3wfqrokp7qorv4beog08sthrecwk1fxp12&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2piN2w2bWwzcWc1OWdud2VlbGxkbWV1ZzFlMXhmZDZ2a3dqYzV6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytJuY1j89ld2CMRFuY/giphy.gif)"></p>
+<p align = "center"><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2piN2w2bWwzcWc1OWdud2VlbGxkbWV1ZzFlMXhmZDZ2a3dqYzV6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytJuY1j89ld2CMRFuY/giphy.gif"></p>
 
 <h1 align="center">Hi 👋, I'm Michal Pxlav K</h1>
 <h3 align="center">🤖Game Developer and 3D Artist🤖</h3>
